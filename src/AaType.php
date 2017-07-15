@@ -1,5 +1,5 @@
 <?php
-
+namespace Buki;
 
 
 abstract class AaType
